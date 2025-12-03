@@ -130,4 +130,4 @@ A Loom video walkthrough has been recorded showing:
 - Folder structure
 - GitHub push
 
-**Loom Video Link:** (Add your link here)
+**Loom Video Link:** https://www.loom.com/share/18b8c109559145e9a0a475602b26e74e
